@@ -1,7 +1,7 @@
 - 👋 Hi, I’m LIYang.
-- 👀 I’m interested in distributed ML, federated learning & optimization.
+- 👀 I’m interested in optimization, ML and MLSys.
 - 🌱 I’m currently learning foundation knowledges of math, CS and AI.
-- 💞️ I’m looking to collaborate on AI systems.
+- 💞️ I’m looking to collaborate on MLSys.
 - 📫 Reach me: liyang258@mail2.sysu.edu.cn
 
 <!---
