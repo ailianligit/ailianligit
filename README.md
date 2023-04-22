@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LIYang.
 - 👀 I’m interested in optimization, ML and MLSys.
-- 🌱 I’m currently learning foundation knowledges of math, CS and AI.
+- 🌱 I’m currently working on large-model training, model compression and federated learning.
 - 💞️ I’m looking to collaborate on MLSys.
 - 📫 Reach me: liyang258@mail2.sysu.edu.cn
 
