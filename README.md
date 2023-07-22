@@ -1,7 +1,7 @@
-- 👋 Hi, I’m LIYang.
-- 👀 I’m interested in optimization, ML and MLSys.
-- 🌱 I’m currently working on large-model training, model compression and federated learning.
-- 💞️ I’m looking to collaborate on MLSys.
+- 👋 Hi, I’m LI Yang.
+- 👀 I’m interested in game theory, cryptography and blockchain.
+- 🌱 I’m currently working on a new research topic (updated later).
+- 💞️ I’m looking to collaborate on blockchain.
 - 📫 Reach me: liyang258@mail2.sysu.edu.cn
 
 <!---
