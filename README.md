@@ -1,7 +1,7 @@
 - 👋 Hi, I’m LI Yang.
-- 👀 I’m interested in game theory, statistics, blockchain and distributed ML.
+- 👀 I’m interested in game theory, statistics and blockchain.
 - 🌱 I’m currently working on data valuation.
-- 💞️ I’m looking to collaborate on blockchain & distributed ML.
+- 💞️ I’m looking to collaborate on blockchain.
 - 📫 Reach me: liyang258@mail2.sysu.edu.cn
 
 <!---
