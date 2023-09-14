@@ -1,7 +1,7 @@
 - 👋 Hi, I’m LI Yang.
 - 👀 I’m interested in game theory, data-centric AI & computational economics.
 - 🌱 I’m currently working on data valuation.
-- 💞️ I’m looking to collaborate on data science & engineering.
+- 💞️ I’m looking to collaborate on something interesting.
 - 📫 Reach me: liyang258@mail2.sysu.edu.cn
 
 <!---
