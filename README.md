@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LI Yang.
-- 👀 I’m interested in data-centric AI, DL theory & MLSys.
+- 👀 I’m interested in data-centric AI, learning theory & MLSys.
 - 🌱 I’m currently working on data valuation.
 - 💞️ I’m looking to collaborate on machine learning systems.
 - 📫 Reach me: liyang258@mail2.sysu.edu.cn
