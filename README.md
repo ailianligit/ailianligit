@@ -3,6 +3,7 @@
 - 🌱 I’m currently researching data valuation and data marketplace.
 - 💞️ I’m looking to collaborate on online optimization and bandits.
 - 📫 Reach me: liyang258@mail2.sysu.edu.cn
+- 🪪 My resume is [here](https://raw.githubusercontent.com/ailianligit/ailianligit.github.io/main/docs/resume.pdf).
 
 <!---
 ailianligit/ailianligit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
